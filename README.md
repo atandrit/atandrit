@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Atandrit Chatterjee
 #### Design and Development
-I am Atandrit from India. Currently I am a third year student from SRM Institute of Science and Technology, Kattankulathur in Computer Science with specialization in Information Technology 📡
+I am Atandrit from India. Currently I am a student at the SRM Institute of Science and Technology (SRMIST), Kattankulathur with a major in Computer Science (IT). 📡
 
 I am regularly learning new things and brushing up my skills.
 
