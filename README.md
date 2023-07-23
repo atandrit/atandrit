@@ -4,11 +4,9 @@ I am a student at the SRM Institute of Science and Technology (SRMIST), Kattanku
 
 I am regularly learning new things and brushing up my skills.
 
-I am willing to work on free-lance projects.
-
 ## About Me
 
-- 🏫 I am currently in my third year of study.
+- 🏫 I am currently in my fourth year of study.
 - 💻 I have a strong interest in software development and programming.
 - 🌱 I am constantly learning and expanding my knowledge in various fields of computer science.
 - 🤖 I am particularly interested in artificial intelligence.
