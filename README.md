@@ -24,8 +24,6 @@ I am regularly learning new things and brushing up my skills.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atandrit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/atandrit-chatterjee/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atandrit._/)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atandrit&show_icons=true)  
-
 Feel free to reach out to me if you want to discuss any of my projects or have any questions about my skills and experience.
 
   
