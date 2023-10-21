@@ -1,5 +1,5 @@
 # Hi there, I'm Atandrit Chatterjee 👋
-#### A Data Science Enthusiast 📊📈
+#### A Tech Enthusiast 
 I am a passionate learner and a student at the SRM Institute of Science and Technology (SRMIST), Kattankulathur, pursuing B.Tech in Computer Science with a specialization in IT. As a fourth-year student, I'm dedicated to expanding my knowledge and honing my skills in the world of data science and programming.
 
 ## About Me
@@ -12,7 +12,7 @@ I am a passionate learner and a student at the SRM Institute of Science and Tech
 
 ## Skills
 
-- Programming Languages: Python (NumPy, pandas, scikit-learn), C / C++
+- Programming Languages: C / C++, Python (NumPy, pandas, scikit-learn)
 - Data Analysis & Visualization: Matplotlib, Seaborn, Tableau
 - Machine Learning: Regression, Classification, Clustering, Decision Trees
 - Data Preprocessing: Feature Engineering, Data Cleaning, EDA
