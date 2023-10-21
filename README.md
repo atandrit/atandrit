@@ -5,7 +5,7 @@ I am a passionate learner and a student at the SRM Institute of Science and Tech
 ## About Me
 
 - 🏫 I am currently in my fourth year of study.
-- 💻 I have a strong interest in data science and programming.
+- 💻 I have a strong interest in programming and data science.
 - 🌱 I am constantly learning and expanding my knowledge in various fields of computer science.
 - 🤖 I am particularly interested in artificial intelligence.
 
